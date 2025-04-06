@@ -8,7 +8,13 @@ import Contactus from "./pages/Contactus";
 
 function App() {
   return (
-    
+    <Router>
+      <Navbar />  {/* Navbar appears on all pages */}
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/portfolio" element={<Portfolio />} />
+      </Routes>
+    </Router>
   );
 }
 
