@@ -11,6 +11,11 @@ const Herosection = () => {
         <section>
             <div className="herosec">
                 <div className="groupdiv">
+                   <img 
+                        src={Group} 
+                        className='group' 
+                        alt="Group pic"
+                    />
                 </div>
                 <div className="groupseconddiv">
                     <h5 className="welcome">W E L C O M E</h5>
