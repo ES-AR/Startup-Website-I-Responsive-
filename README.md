@@ -53,7 +53,7 @@ bash
 cd startup-website
 
 
-3. **install React Dependencies:**
+3. **install React node_modules:**
 
 npm install
 
