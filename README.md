@@ -27,7 +27,7 @@ Includes smooth page transitions powered by React Router
 [Live Demo](https://startup-website-wpn4.onrender.com)
 
 ## Presentation link
-[Presentation link]()
+[Presentation link](https://www.loom.com/share/e95c5bd6e5f84908803b080e82eb2e81?sid=79fd2deb-c570-4789-b228-1fd44d171adb)
 ## Technologies Used
 - React
 - CSS 
