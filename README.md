@@ -61,7 +61,7 @@ npm install
 
 npm start
 ## Author
-Name: Muhammad Farouk
+Name: Sadiq Ridwan Abubakar
 Contact: [sadiqridwan347@gmail.com]
 GitHub: [ES-AR](https://github.com/ES-AR)
 
